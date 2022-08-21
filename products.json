@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "price": 1500,
+        "productName": "Demo 1",
+        "productImage": "https://source.unsplash.com/random",
+        "isSold": false,
+        "discount": 70
+    },
+    {
+        "id": 2,
+        "price": 2500,
+        "productName": "Demo 2",
+        "productImage": "https://source.unsplash.com/random",
+        "isSold": false,
+        "discount": 70
+    },
+    {
+        "id": 3,
+        "price": 3500,
+        "productName": "Demo 3",
+        "productImage": "https://source.unsplash.com/random",
+        "isSold": true,
+        "discount": 76
+    },
+    {
+        "id": 4,
+        "price": 2200,
+        "productName": "Demo 4",
+        "productImage": "https://source.unsplash.com/random",
+        "isSold": false,
+        "discount": 50
+    },
+]
